@@ -4,3 +4,5 @@ This week's data is from the EPA. The full data dictionary can be found at fuele
 Toyota and Volkswagen are well below the overall median fuel cost for all cars.
 
 ![alt text](https://github.com/lordoferos/TidyTuesday42/blob/master/tidy42.png)
+
+![alt text](https://github.com/lordoferos/TidyTuesday42/blob/master/tidy42_box.png)
